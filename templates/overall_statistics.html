@@ -1,0 +1,30 @@
+<!-- overall_statistics.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Overall Statistics</title>
+</head>
+<body>
+    <h1>Overall Statistics</h1>
+    
+    {% for category, subcategories in user_scores.items() %}
+        <h2>{{ category }}</h2>
+        <ul>
+            {% for subcategory, scores_for_subcategory in subcategories.items() %}
+                <li>
+                    <strong>{{ subcategory }}</strong>
+                    <ul>
+                        <li>Average Score: {{ scores_for_subcategory['average_score'] }}%</li>
+                        <li>Highest Score: {{ scores_for_subcategory['highest_score'] }}%</li>
+                        <li>Lowest Score: {{ scores_for_subcategory['lowest_score'] }}%</li>
+                        <li>Number of Attempts: {{ scores_for_subcategory['num_attempts'] }}</li>
+                    </ul>
+                </li>
+            {% endfor %}
+        </ul>
+    {% endfor %}
+</body>
+</html>

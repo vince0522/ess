@@ -1,0 +1,633 @@
+{
+	"category1": {
+	  "Computer Fundamentals": {
+		"question": 
+				[
+					"How can you label computerized equipment performing functions such as data gathering, monitoring, and switching",
+					"In a network of computers, what is the term for the computer where commonly used files are stored and accessed?",
+					"What type of communication system utilizes light, instead of electricity, for transmission?",
+					"What type of computer slot serves as a high-speed data pathway primarily designed for graphics cards?",
+					"Octal coding involves organizing the bits in:"
+
+				],
+		"options": [
+				["Automated surveillance system", "Telecommand system", "SCADA","Operational oversight mechanism"], 
+				["Network Device", "Mainframe computer", "File server","Personal computer"], 
+				["Fiber optic communication", "Wireless communication", "Infrared communication","Satellite communication"],
+				["VESA", "PCI", "AGP","SATA"],
+				["Pairs", "Threes", "Fours","Fives"]
+			],
+		"answer": [2, 2, 0, 2, 1],
+		"images": ["images/category1/computerfundamentals/1.png", "images/category1/computerfundamentals/2.png", "images/category1/computerfundamentals/3.png","images/category1/computerfundamentals/4.png","images/category1/computerfundamentals/5.png"]
+	  },
+	  "Computer Fundamentals.": {
+		"question": 
+				[
+					"Which component of a computer is responsible for performing arithmetic and logical operations?",
+					"What does the acronym RAM stand for in the context of computer memory?",
+					"Which computer language consists of a series of low-level instructions directly executable by the computer's CPU?",
+					"The binary system uses which two digits to represent all possible values?",
+					"Which component of a computer is responsible for storing data in a non-volatile form?"
+
+				],
+		"options": [
+				["Automated surveillance system", "Telecommand system", "SCADA","Operational oversight mechanism"], 
+				["Network Device", "Mainframe computer", "File server","Personal computer"], 
+				["Fiber optic communication", "Wireless communication", "Infrared communication","Satellite communication"],
+				["VESA", "PCI", "AGP","SATA"],
+				["Pairs", "Threes", "Fours","Fives"]
+			],
+		"answer": [0, 1, 2, 0, 1],
+		"images": ["images/category1/computerfundamentals/6.png", "images/category1/computerfundamentals/7.png", "images/category1/computerfundamentals/8.png","images/category1/computerfundamentals/9.png","images/category1/computerfundamentals/10.png"]
+	  },
+	  "Engineering Materials": {
+		"question": 
+				[
+					"What category of substances displays properties similar to iron when exposed to a magnetic field? ",
+					"Which characteristic of an element is influenced by the count of protons in its nucleus?",
+					"What are acknowledged as the fundamental constituents of engineering materials?",
+					"What is the term for coal that has been previously burned in an oxygen-poor environment?",
+					"Red brass typically contains approximately what percentage of zinc? "
+
+				],
+		"options": [
+				["Polymers ", "Glass ", "Ferromagnetic materials","Alloys"], 
+				["Atomic weight ", "Atomic number ", "Electronegativity ","Atomic radius"], 
+				["Atoms ", "Alloys ", "Particles ","Polymers"],
+				["Atoms ", "Alloys ", "Particles ","Polymers"],
+				["15% ", "20% ", "25% ","30%"]
+			],
+		"answer": [2, 1, 0, 0, 0],
+		"images": ["images/category1/engrmaterial/1.png", "images/category1/engrmaterial/2.png", "images/category1/engrmaterial/3.png","images/category1/engrmaterial/4.png","images/category1/engrmaterial/5.png"]
+	  },
+	  "Engineering Materials.": {
+		"question": 
+				[
+					"What is the primary constituent of copper alloys commonly used in electrical engineering? ",
+					"Which material is commonly used as insulation in electrical wires and cables?",
+					"What is the primary advantage of using fiberglass-reinforced epoxy for electrical insulators?",
+					"Which material is often used as a core in transformers to enhance magnetic properties?",
+					"What is the primary purpose of adding carbon to steel in the manufacturing of electrical components?"
+
+				],
+		"options": [
+				["Iron ", "Aluminum ", "Copper","Zinc"], 
+				["Aluminum ", "Copper", "Rubber","Steel"], 
+				["High conductivity ", "Low cost ", "High strength and excellent electrical insulation ","Corrosion resistance"],
+				["Copper ", "Aluminum ", "Silicon steel ","Brass"],
+				["To improve electrical conductivity", "To enhance corrosion resistance", "To increase strength and hardness","To decrease weight"]
+			],
+		"answer": [2, 2, 2, 2, 2],
+		"images": ["images/category1/engrmaterial/6.png", "images/category1/engrmaterial/7.png", "images/category1/engrmaterial/8.png","images/category1/engrmaterial/9.png","images/category1/engrmaterial/10.png"]
+	  },
+	  "Engineering Mechanics": {
+		"question": 
+				[
+					"Two forces of 40 units and 50 units act at right angles. What is the magnitude of the resultant force?",
+					"A Circle has a diameter of 30 cm. Determine the moment of inertia of the circular area relative to the axis perpendicular to the area through the center of the circle in cm4",
+					"A policeman aimed his rifle at the bull’s eye of a target 60m away. If the speed of the bullet is 800m/s, how far below the bull’s eye does the bullet strikes the target?",
+					"A man keeps a 2kg toy airplane flying horizontally in a circle by holding onto a 2.5m long string attached to its wing tip. The string is always in the plane of the circular flight path. if the plane flies at 15 m/s, find the tension in the string.",
+					"A ball is dropped from a height of 50 meters above ground. How long does it takes to hit the ground?"
+
+				],
+		"options": [
+				["64 ", "62 ", "66","68"], 
+				["79521 cm4 ", "72521 cm4", "73521 cm4","78521 cm4"], 
+				["2.4 cm", "2.2 cm", "3.0 cm","2.8 cm"],
+				["160 N ", "180 N ", "200 N","210 N"],
+				["3.2 s", "4.2 s", "3.5 s","4.5 s"]
+			],
+		"answer": [0, 0, 3, 1, 0],
+		"images": ["images/category1/engmechanic/1.png", "images/category1/engmechanic/2.png", "images/category1/engmechanic/3.png","images/category1/engmechanic/4.png","images/category1/engmechanic/5.png"]
+	  },
+	  "Engineering Mechanics.": { 
+		"question": 
+				[
+					"Two forces, 30 N and 40 N, act on a point in perpendicular directions. What is the magnitude of the resultant force?",
+					"A body is in free fall. What is the value of acceleration due to gravity (g) near the Earth's surface?",
+					"What is the relationship between stress and strain in a material?",
+					"In a truss, which member is typically subjected to tension?",
+					"What is the principle of conservation of energy?"
+
+				],
+		"options": [
+				["10 N ", "20 N ", "50 N","70 N"], 
+				["5 m/s² ", "9.8 m/s²", "12 m/s²","20 m/s²"], 
+				["Stress=StrainStress=Strain ", "Stress=Strain2Stress=2Strain ", "Stress=Strain3Stress=3Strain","Stress=Young’s Modulus×StrainStress=Young’s Modulus×Strain"],
+				["Compression", "Torsion", "Bending","Tension"],
+				["Energy cannot be created.", "Energy cannot be destroyed.", "The total energy of an isolated system is constant."," All of the above"]
+			],
+		"answer": [2, 2, 2, 3, 3],
+		"images": ["images/category1/engmechanic/6.png", "images/category1/engmechanic/7.png", "images/category1/engmechanic/8.png","images/category1/engmechanic/9.png","images/category1/engmechanic/10.png"]
+	  },
+	  "Fluids Mechanics": { 
+		"question": 
+				[
+					"How high does mercury barometer stands on a day when atmospheric pressure is 84.6 kPa considering that the specific gravity of mercury is 13.6?",
+					"In a hydraulic press the large piston has a cross-sectional area A1= 300cm2 and the small piston has a cross section area A2=10cm2 if the force applied is 350 N to the small piston. Compute the force acting on the large piston.",
+					"Calculate the pressure at a depth of 150 meters in seawater, for which the specific weight is 10.1 kN/m3",
+					"What is the pressure of 7000 ft. below the ocean surface?",
+					"An atmospheric pressure of 90.275 kPA will be supported by how much height of water?"
+
+				],
+		"options": [
+				["600 mm", "720 mm", "679 mm","635 mm"], 
+				["10.5 KN", "12.5 KN", "8.5 KN","11.7 KN"], 
+				["1515 kPA", "1415 kPA", "1475 kPA","1616 kPA"],
+				["521,904 lbf/ft2", "449,904 lbf/ft2", "339,689 lbf/ft2","621,322 lbf/ft2"],
+				["9.20m", "8.20m", "10 m","8.50m"]
+			],
+		"answer": [3, 0, 0, 1, 0],
+		"images": ["images/category1/fluidmechanic/1.png", "images/category1/fluidmechanic/2.png", "images/category1/fluidmechanic/3.png","images/category1/fluidmechanic/4.png","images/category1/fluidmechanic/5.png"]
+	  },
+	  "Fluids Mechanics.": { 
+		"question": 
+				[
+					"What is the fundamental equation that relates pressure, density, and height in a static fluid?",
+					"The viscosity of a fluid is a measure of its:",
+					"What is the buoyant force experienced by an object submerged in a fluid?",
+					"What is the term for the force per unit area exerted by a fluid at rest?",
+					"What is the Reynolds number used for in fluid mechanics?"
+
+				],
+		"options": [
+				["Bernoulli's equation", "Poiseuille's equation", "Pascal's law","Archimedes' principle"], 
+				["Density", "Resistance to flow", "PressureN","Temperature"], 
+				["Weight of the object", "Density of the fluidA", "Weight of the fluid displaced","Atmospheric pressure"],
+				["Velocity", "Pressure", "Viscosity","Surface tension"],
+				["To calculate pressure drop in a pipe", "To predict the onset of turbulence", "To determine fluid density","To measure fluid viscosity"]
+			],
+		"answer": [2, 1, 2, 1, 1],
+		"images": ["images/category1/fluidmechanic/6.png", "images/category1/fluidmechanic/7.png", "images/category1/fluidmechanic/8.png","images/category1/fluidmechanic/9.png","images/category1/fluidmechanic/10.png"]
+	  },
+	  "Gen Chemistry": { 
+		"question": 
+				[
+					"If the atomic mass of Copper (Cu) if 63.5g/mol compute how many grams does 0.312 of Copper (Cu) has?",
+					"How many moles of iron does 30 g of Fe represent? Note: the atomic weigh of iron(Fe) is 55.8g/mol",
+					"What is the molar mass of calcium hydroxide?",
+					"What is the term for the negatively charged constituent of an atom?",
+					"What is the term for the concentration measurement that represents the number of gram-moles of solute per liter of solution?"
+
+				],
+		"options": [
+				["19.8 g", "20.4 g", "21.8 g","18.8 g"], 
+				["0.438 mol of Fe", "0.538 mol of Fe", "0.638 mol of Fe","0.628 mol of Fe"], 
+				["78", "71", "74","67"],
+				["Neutron", "Proton", "Electron","Nucleus"],
+				["Molality", "Molarity", "Mass percent","Volume percent"]
+			],
+		"answer": [0, 1, 2, 2, 1],
+		"images": ["images/category1/genchem/1.png", "images/category1/genchem/2.png", "images/category1/genchem/3.png","images/category1/genchem/4.png","images/category1/genchem/5.png"]
+	  },
+	  "Gen Chemistry.": { 
+		"question": 
+				[
+					"What is the chemical symbol for the element with atomic number 6?",
+					"Which of the following is a noble gas?",
+					"What is the formula for sulfuric acid?",
+					"How many moles of water molecules are there in one mole of glucose (C6H12O6)?",
+					"What is the pH of a solution with a hydrogen ion concentration of 1×10−91×10−9 M?"
+
+				],
+		"options": [
+				["O", "N", "C","H"], 
+				["Oxygen", "Helium", "Nitrogen","Fluorine"], 
+				["HCl", "H2SO4", "HNO3","NaOH"],
+				["6 moles", "12 moles", "18 moles","24 moles"],
+				["1", "5", "7","9"]
+			],
+		"answer": [2, 1, 1, 0, 3],
+		"images": ["images/category1/genchem/6.png", "images/category1/genchem/7.png", "images/category1/genchem/8.png","images/category1/genchem/9.png","images/category1/genchem/10.png"]
+	  },
+	  "Physics": { 
+		"question": 
+				[
+					"A wave length of a sound wave in a certain material as measured is 20cm. The frequency of the wave is 2000 Hz. Compute the speed of sound wave?",
+					"A converging lens of focal length 30cm is placed 50cm in front of a screen. At what distance that the object be placed so that its image appears on the screen?",
+					"The velocity of sound in sea water was found to be 1530 m/s. Compute the wavelength if its frequency is 2000 Hz?",
+					"What is the term that represents the duration for a vibrating object to finish one complete cycle?",
+					"Which tool is used to measure the intensity of a light source?"
+
+				],
+		"options": [
+				["400 m/s", "372 m/s", "398 m/s","406 m/s"], 
+				["70 cm", "75 cm", "65 cm","80 cm"], 
+				["0.765 m", "0.665 m", "0.785 m","0.685 m"],
+				["Frequency", "Magnitude", "Period","Time Interval"],
+				["Photo meter", "Brightness meter", "Glow meter","Light intensity meter"]
+			],
+		"answer": [0, 1, 0, 2, 0],
+		"images": ["images/category1/physics/1.png", "images/category1/physics/2.png", "images/category1/physics/3.png","images/category1/physics/4.png","images/category1/physics/5.png"]
+	  },
+	  "Physics.": { 
+		"question": 
+				[
+					"What is the SI unit of electric charge?",
+					"A car travels 200 kilometers in 4 hours. What is its average speed?",
+					"What is the unit of power?",
+					"What is the work done by a force when the force and displacement are perpendicular to each other?",
+					"Which of the following is a vector quantity?"
+
+				],
+		"options": [
+				["Volt", "Coulomb", "Ampere","Ohm"], 
+				["50 km/h", "100 km/h", "25 km/h","150 km/h"], 
+				["Joule", "Watt", "Volt","Ampere"],
+				["Maximum", "Minimum", "Zero","Undefined"],
+				["Speed", "Distance", "Mass","Velocity"]
+			],
+		"answer": [1, 0, 1, 2, 3],
+		"images": ["images/category1/physics/6.png", "images/category1/physics/7.png", "images/category1/physics/8.png","images/category1/physics/9.png","images/category1/physics/10.png"]
+	  },
+	  "Thermodynamics": { 
+		"question": 
+				[
+					"What is the maximum thermal efficiency for a power cycle operating between 1400 and 350 degrees Fahrenheit? ",
+					"Find the gas constant of a mixture containing 25 kg of oxygen and 35 kg of nitrogen per kg of the mixture. ",
+					"Calculate the power output of a device producing 48.5 joules per cycle at 55 rpm with one power stroke per cycle. ",
+					"Determine the thermal efficiency of a Carnot engine operating between 800 and 1000 degrees Rankine. ",
+					"If the thermal efficiency of a Carnot engine is 60% with heat supplied at 628 degrees Celsius, find the temperature of the reservoir. "
+
+				],
+		"options": [
+				["56.45% ", "56.54% ", "58.73% ","58.40%"], 
+				["0.9467 kJ/kg·K ", "0.4672 kJ/kg·K ", "0.2814 kJ/kg·K ","0.2578 kJ/kg·K"], 
+				["5.69 W ", "27.125 W", "27.56 W ","44.45 W"],
+				["45% ", "35% ", "40% ","55%"],
+				["38.6 degrees Celsius", "88 degrees Celsius ", "370 degrees Celsius ","87.25 degrees Celsius"]
+			],
+		"answer": [0, 2, 3, 0, 3],
+		"images": ["images/category1/thermo/1.png", "images/category1/thermo/2.png", "images/category1/thermo/3.png","images/category1/thermo/4.png","images/category1/thermo/5.png"]
+	  },
+	  "Thermodynamics.": { 
+		"question": 
+				[
+					"Given a 10-liter gas sample at 30 degrees Celsius and 2 atm, expanding into a 50-liter vessel at 250 degrees Celsius, compute the final pressure. ",
+					"Two pounds of air initially at 60 psia and 800 degrees Fahrenheit expand isentropically to 300 degrees Fahrenheit. Calculate the work done by the gas. ",
+					"An ideal gas at 48 psig and 90 degrees Fahrenheit is heated in a closed container to 140 degrees Fahrenheit. Determine the final pressure. ",
+					"What is the first law of thermodynamics also known as?",
+					"Which thermodynamic process is characterized by constant pressure?"
+
+				],
+		"options": [
+				["17.26 atm ", "16.47 atm", " 0.63 atm ","0.87 atm"], 
+				[" 167 Btu ", "185 Btu ", "345 Btu","171 Btu"], 
+				["68 psia", "78 psia ", "65 psia ","43 psia"],
+				["Law of Entropy", "Law of Conservation of Energy", "Law of Thermodynamic Equilibrium","Law of Heat Transfer"],
+				["Isothermal", "Isobaric", "Adiabatic","Isochoric"]
+			],
+		"answer": [0, 3, 0, 1, 1],
+		"images": ["images/category1/thermo/6.png", "images/category1/thermo/7.png", "images/category1/thermo/8.png","images/category1/thermo/9.png","images/category1/thermo/10.png"]
+	  }
+	},
+
+	"category2": {
+	  "algebra": {
+		"question": [
+			"In a construction project, a stack of bricks is arranged in layers such that the bottom layer has 61 bricks, the second layer has 58 bricks, the third layer has 55 bricks, and so on, with the last layer containing 10 bricks. What is the total number of bricks used in the entire stack?",
+			"What is the classification of an algebraic expression that involves two variables, such as 2a + b = 5?", 
+			"What is the temperature in degrees Kelvin of an object if it has 502 ºF?",
+			"At what time between 5:00PM to 6:00PM will the minute and hour hand will be perpendicular for the first time?",
+			"Determine the value of B when 3x + 3y = 10 is perpendicular to the line 2x +By =C."
+		],
+		"options": [
+			["639", "633", "636","642"],
+			["Monomial ", "Binomial ", "Trinomial ","Quadrinomial"],
+			["345.60", "520.04", "123.56","534.26"],
+			["5:43:38PM", "5:10:55AM", "5:10:55PM","5:43:38PM"],
+			["-0.5", "1", "-2","-1"]
+		],
+		"answer": [0, 1, 3, 2, 2],
+		"images": ["images/category1/algebra/1.png", "images/category1/algebra/2.png", "images/category1/algebra/3.png","images/category1/algebra/4.png","images/category1/algebra/5.png"]
+	  },
+	  "algebra.": {
+		"question": [
+			"Find the 25th term of an arithmetic sequence if its 3rd and 6th term are 18 and 27 respectively", 
+			"Simplify i100 + i10325 + i91 - i9 + 120", 
+			"Find y from the following equations:",
+			"The sum of the reciprocals of two numbers is 11. Three times the reciprocal of one of the numbers is three more than twice the reciprocal of the other number. Find the numbers.",
+			"Find the value of x in the equation 37x-9 = 531441"
+		],
+		"options": [
+			["53", "84", "40", "9"], 
+			["120 + 3i", "122 + 0i ", "121 - i","120 + 3i"], 
+			["2.5", "2", "1","1.5"],
+			["5 and 6", "7 and 4", "1/5 and 1/6","1/7 and ¼"],
+			["2", "3", "4","5"]
+		],
+		"answer": [1, 2, 3, 0, 1],
+		"images": ["images/category1/algebra/6.png", "images/category1/algebra/7.png", "images/category1/algebra/8.png","images/category1/algebra/9.png","images/category1/algebra/10.png"]
+	  },
+	  "Trigonometry": {
+		"question": [
+			"The angle of inclination of the road is 22 degrees. What is the angle of inclination in mils?", 
+			"What is the value in degrees of pi radians?", 
+			"Find the supplement of an angle whose compliment is 56 degrees.",
+			"The measure of 5.25 revolutions clockwise is:",
+			"Each side of the cube is increased by 5% By what percent is the volume of the cube increased?"
+		],
+		"options": [
+			["568.89", "829.12", "391.11", "231.11"], 
+			["90", "360", "270","180"], 
+			["146º", "118º", "152º","none of these"],
+			["-1890º", "-1800º ", "+1890º","-1000º"],
+			["23.4%", "34.56%", "3.03%","15.76%"]
+		],
+		"answer": [2, 3, 0, 2, 3],
+		"images": ["images/category1/trigo/1.png", "images/category1/trigo/2.png", "images/category1/trigo/3.png","images/category1/trigo/4.png","images/category1/trigo/5.png"]
+	  },
+	  "Trigonometry.": {
+		"question": [
+			"A vertical pole is 10m from a building. When the angle of elevation of the sun is 45 degrees, the pole casts a shadow on the building 1 m high. Find the height of the pole.", 
+			"What is the least amount of tin sheet in sq inches that can be made into a closed cylindrical can having a volume of 108 cu. inches?", 
+			"The sum of the two interior angles of the triangle is equal to the third angle and the difference of the two angles is equal to 2/3 of the third angle. Find the third angle.",
+			"A wire supporting a pole is fastened to it 40 ft from the ground and to the ground 30 ft from the pole. Calculate the length of the wire and the angle (in degrees) it makes with the ground.",
+			"What is the sum of interior angles of a square in degrees?"
+		],
+		"options": [
+			["10 meters", "11 meters", "12 meters", "13 meters"], 
+			["125", "137", "150","120"], 
+			["15º", "75º", "90º","120º"],
+			["70 ft; 36.87", "70 ft; 53.13", "50 ft; 36.87","50 ft; 53.13"],
+			["90", "180", "270","360"]
+		],
+		"answer": [1, 0, 2, 3, 3],
+		"images": ["images/category1/trigo/6.png", "images/category1/trigo/7.png", "images/category1/trigo/8.png","images/category1/trigo/9.png","images/category1/trigo/10.png"]
+	  },
+	  "DEDC": {
+		"question": [
+			"Differential Equations: Solve the differential equation dy/dx = 3x^2 with the initial condition y (0) = 2.", 
+			"Differential Calculus: Find the derivative of the function f(x) = 4x^3 - 2x^2 + 5x - 1.", 
+			"Differential Equations:Solve the differential equation dy/dx = -2y with the initial condition y(0) = 5.",
+			"Differential Calculus: Find the critical points of the function g(x) = 2x^3 - 6x^2 + 4x.",
+			"Differential Equations: Solve the differential equation dy/dx = e^{2x} with the initial condition y (0) = 1."
+		],
+		"options": [
+			["y = x^3 + 2", "y = x^3 + 3", "y = 3x^3 + 2", "y = 3x^3 + 3"], 
+			["12x^2 - 4x + 5 ", "8x^2 - 4x + 5 ", "12x^2 - 4x - 5","8x^2 - 4x - 5 "], 
+			["y = 5e^{-2x} ", "y = 5e^{2x} ", "y = -5e^{-2x}"," y = -5e^{2x} "],
+			["x = 0, 1, 2 ", "x = 0, 1 ", "x = 0, 2 ","x = 1, 2 "],
+			["y = 1/2e^{2x} ", "y = 2e^{2x} ", "y = 1/2e^{2x} + 1 ","y = e^{2x} "]
+		],
+		"answer": [0, 0, 0, 1, 2],
+		"images": ["images/category1/dedc/1.png", "images/category1/dedc/2.png", "images/category1/dedc/3.png","images/category1/dedc/4.png","images/category1/dedc/5.png"]
+	  },
+	  "DEDC.": {
+		"question": [
+			"Differential Calculus: Find the global maximum and minimum values of h(x) = x^2 - 4x + 3 on the interval [0, 4].", 
+			"Differential Equations: Given the differential equation dy/dx = 2x, the solution with the initial condition y(0) = 3 is:", 
+			"Differential Equations:The general solution of the differential equation (d^2)y/ d(x^2)- 4y = 0 is:",
+			"Differential Equations: The solution of the differential equation {dy}/{dx} + y = e^{-x} is given by:",
+			"Differential Equations: The solution of the differential equation {dy}/{dx} = ky where k is a constant is:"
+		],
+		"options": [
+			["Maximum: 3, Minimum: -1", "Maximum: 3, Minimum: 0", "Maximum: 4, Minimum: 0", "Maximum: 4, Minimum: -1"], 
+			["y = x^2 + 3 ", "y = 2x^2 + 3", "y = x^2 + 2","y = 2x^2 + 2"], 
+			["y = Ae^{2x} + Be^{-2x}", "y = Ae^{x} + Be^{-x}", "y = Ae^{x} + Be^{-x}","y = Ae^{x} + Be^{-x}"],
+			["y = e^{-x} + Ce^{-x} ", "y = e^{-x} - Ce^{-x} ", "y = e^{-x} + Ce^{x} ","y = e^{-x} - Ce^{x}"],
+			["y = Ce^{kx}", "y = Ce^{-kx}", "y = Ce^{1/kx}","y = Ce^{-1/kx}"]
+		],
+		"answer": [1, 1, 2, 0, 0],
+		"images": ["images/category1/dedc/6.png", "images/category1/dedc/7.png", "images/category1/dedc/8.png","images/category1/dedc/9.png","images/category1/dedc/10.png"]
+	  },
+	  "Probability and Statistics": {
+		"question": [
+			"A and B are two events such that P(A) = 0.4 and P(A ∩ B) = 0.2 Then P(A ∩ B) is equal ", 
+			"Let A and B be two events such that P(A) = 15 While P(A or B) = 12. Let P(B) = P. For what values of P are A and B independent?", 
+			"If 40% of boys opted for maths and 60% of girls opted for maths, then what is the probability that maths is chosen if half of the classs population is girls?",
+			"Company A produces 10% defective products, Company B produces 20% defective products and C produces 5% defective products. If choosing a company is an equally likely event, then find the probability that the product chosen is defective.",
+			"In badminton practice session, the probability that the player A serves properly is 0.8 and that he player B serves properly is 0.9. If there are only two players, then find the probability that it is serves properly."
+		],
+		"options": [
+			["0.2", "0.3", "0.5", "0.4"], 
+			["1/10 and 3/10", "3/10 and 4/5", "3/8 only","None of the above"], 
+			["0.3", "0.4", "0.5","0.6"],
+			["0.11", "0.22 ", "0.12 ","0.22"],
+			["0.75", "0.65", "0.85}","0.95"]
+		],
+		"answer": [3, 2, 2, 2, 2],
+		"images": ["images/category1/proba/1.png", "images/category1/proba/2.png", "images/category1/proba/3.png","images/category1/proba/4.png","images/category1/proba/5.png"]
+	  },
+	  "Probability and Statistics.": {
+		"question": [
+			"A survey determines that in a locality, 33% go to work by Bike, 42% go by Car, and 12% use both. The probability that a random person selected uses neither of them is?", 
+			"A coin is biased so that its chances of landing Head is 23. If the coin is flipped 3 times, the probability that the first 2 flips are heads and the 3rd flip is a tail Is?", 
+			"Runs scored by batsman in 5 one day matches are 50, 70, 82, 93, and 20. The standard deviation is ",
+			"What is the area under a conditional Cumulative density function? ",
+			"If E(x) = 2 and E(z) = 4, then E(z  x) =?"
+		],
+		"options": [
+			["0.36", "0.37", "0.44", "0.45"], 
+			["2/9", "4/9", "7/27","4/27"], 
+			["25.67", "25.72", "25.79","25.77"],
+			["1", "0", "Infinity","None of the above"],
+			["2", "4", "6","Not enough data"]
+		],
+		"answer": [2, 3, 2, 0, 0],
+		"images": ["images/category1/proba/6.png", "images/category1/proba/7.png", "images/category1/proba/8.png","images/category1/proba/9.png","images/category1/proba/10.png"]
+	  },
+	  "Analytical Geometry": {
+		"question": [
+			"Which of the following represents the equation of a circle with center (2, -3) and radius 5?", 
+			"If the line 2x - 3y  = 6 is perpendicular to the line ax = by = 8, what is the value of a = b?", 
+			"What is the distance between the points (3, 4) and (-1, -2)?",
+			"The equation 3x - 4y = 12  represents which geometric shape?",
+			"Which of the following is the standard form of the equation for an ellipse?"
+		],
+		"options": [
+			["0.36", "0.37", "0.44", "0.45"], 
+			["2", "3", "5","6"], 
+			["4", "6", "8","10"],
+			["Circle", "Parabola", "Line","Ellipse"],
+			["2", "4", "6","Not enough data"]
+		],
+		"answer": [2, 2, 2, 2, 1],
+		"images": ["images/category1/geometry/1.png", "images/category1/geometry/2.png", "images/category1/geometry/3.png","images/category1/geometry/4.png","images/category1/geometry/5.png"]
+	  },
+	  "Analytical Geometry.": {
+		"question": [
+			"If a line passes through the points (1, 2) and (4, 6), what is its slope?", 
+			"What is the equation of the line parallel to the x-axis and passing through the point (5, -2)?", 
+			"If a parabola is symmetric with respect to the y-axis, what is the equation of the parabola?",
+			"What are the coordinates of the midpoint of the line segment with endpoints (2, 5) and (-4, 7)?",
+			"What is the slope of the line perpendicular to the line 3x + 2y = 9?"
+		],
+		"options": [
+			["1", "2", "3", "4"], 
+			["y=-2", "y=5", "x=-2","x=5"], 
+			["y2=4ax", "x2=4ay", "y=ax2+bx+c","x=ay2+by+c"],
+			["(-1,6)", "(2-,6)", "(-1,5)","(-3,1)"],
+			["-3/2", "3/2", "-2/3","2/3"]
+		],
+		"answer": [0, 1, 1, 0, 3],
+		"images": ["images/category1/geometry/6.png", "images/category1/geometry/7.png", "images/category1/geometry/8.png","images/category1/geometry/9.png","images/category1/geometry/10.png"]
+	  }
+
+	},
+	"category3": {
+		"Circuit and Line Protection": {
+		  "question": [
+			  "What is the primary purpose of a fuse in an electrical circuit?",
+			  "Which device is commonly used to protect sensitive electronic equipment from power surges and voltage spikes?", 
+			  "What does the term Overcurrent in circuit protection refer to?",
+			  "In a circuit breaker, what is the purpose of the thermal trip element?",
+			  "Which type of circuit protection device is specifically designed to open a circuit rapidly in case of a short circuit?"
+		  ],
+		  "options": [
+			  ["Voltage Regulation ", "Current Limiting ", "Signal Amplification ","Energy Storage"],
+			  ["Circuit Breaker  ", "Fuse  ", "Surge Protector  ","Resistor"],
+			  ["Excessive Voltage ", "Excessive Current ", "Insufficient Voltage ","Insufficient Current"],
+			  ["Overvoltage Protection ", "Overcurrent Protection ", "Short Circuit Protection ","Ground Fault "],
+			  ["-0.5", "1", "-2","-1"]
+		  ],
+		  "answer": [1, 2, 1, 1, 2],
+		  "images": ["images/category1/circuit/1.png", "images/category1/circuit/2.png", "images/category1/circuit/3.png","images/category1/circuit/4.png","images/category1/circuit/5.png"]
+		},
+		"Circuit and Line Protection.": {
+		  "question": [
+			  "What is the purpose of a Ground Fault Circuit Interrupter (GFCI) in electrical circuits?", 
+			  "In a power distribution system, what is the function of a recloser?", 
+			  "What is the purpose of an arc flash relay in an electrical system?",
+			  "Which type of protection device is designed to disconnect the load when the voltage exceeds a predetermined level?",
+			  "What is the purpose of a current transformer (CT) in protection systems?"
+		  ],
+		  "options": [
+			  ["Overcurrent Protection ", "Short Circuit Protection ", "Ground Fault Protection ", "Surge Protection"], 
+			  ["Control Voltage ", "Overcurrent Protection ", "Short Circuit Protection ","Reconnect Circuits"], 
+			  ["Overcurrent Protection ", "Arc Fault Protection ", "Ground Fault Protection ","Voltage Regulation"],
+			  ["Fuse ", "Surge Protector ", "Voltage Regulator ","Undervoltage Relay"],
+			  ["Measure Voltage ", "Measure Current ", "Control Voltage ","Store Energy"]
+		  ],
+		  "answer": [2, 3, 1, 3, 3],
+		  "images": ["images/category1/circuit/6.png", "images/category1/circuit/7.png", "images/category1/circuit/8.png","images/category1/circuit/9.png","images/category1/circuit/10.png"]
+		},
+		"Control System": {
+		  "question": [
+			  "TWhat is the primary purpose of a controller in a control system?", 
+			  "Which type of control system continuously monitors and adjusts the system output based on the error signal?", 
+			  "In a proportional-integral-derivative (PID) controller, what does the D represent?",
+			  "What is the transfer function of a system in control theory?",
+			  "What is the purpose of a lead compensator in control systems?"
+		  ],
+		  "options": [
+			  ["Measure Process Variables ", "Amplify Signals ", "Process Information ", "Adjust System Output"], 
+			  ["Open-Loop Control ", "Closed-Loop Control ", "Feedforward Control","Adaptive Control"], 
+			  ["Derivative ", "Differential ", "Deviation ","Division"],
+			  ["Ratio of Output to Input ", "Ratio of Input to Output  ", "Sum of Proportional, Integral, and Derivative Terms ","System Gain"],
+			  ["Increase System Stability ", "Decrease System Stability ", "Reduce System Bandwidth ","Introduce Phase Lag"]
+		  ],
+		  "answer": [3, 1, 0, 0, 0],
+		  "images": ["images/category1/control/1.png", "images/category1/control/1.png", "images/category1/control/1.png","images/category1/control/4.png","images/category1/control/5.png"]
+		},
+		"Control System.": {
+		  "question": [
+			  "What does the term steady-state error refer to in control systems?", 
+			  "What is the primary advantage of a root locus plot in control system analysis?", 
+			  "Which control system parameter determines the system's ability to respond to changes in the input quickly?",
+			  "What is the purpose of a lag compensator in control systems?",
+			  "What does the term Nyquist stability criterion address in control system analysis?"
+		  ],
+		  "options": [
+			  ["Error that Occurs at the Start ", "Error at a Constant Rate ", "Error in the Long Run ", "Random Error"], 
+			  ["Time-Domain Analysis ", "Frequency-Domain Analysis ", "Stability Analysis ","Transient Response "], 
+			  ["Rise Time ", "Settling Time ", "Overshoot ","Time Constant"],
+			  ["Increase System Stability ", "Decrease System Stability ", "Reduce System Bandwidth ","Introduce Phase "],
+			  ["Stability in the Time Domain ", "Stability in the Frequency Domain ", "Transient Response Analysis ","Steady-State Response Analysis"]
+		  ],
+		  "answer": [2, 2, 0, 1, 1],
+		  "images": ["images/category1/control/6.png", "images/category1/control/7.png", "images/category1/control/8.png","images/category1/control/9.png","images/category1/control/10.png"]
+		},
+		"subcategory5": {
+		  "question": [
+			  "Differential Equations: Solve the differential equation dy/dx = 3x^2 with the initial condition y (0) = 2.", 
+			  "Differential Calculus: Find the derivative of the function f(x) = 4x^3 - 2x^2 + 5x - 1.", 
+			  "Differential Equations:Solve the differential equation dy/dx = -2y with the initial condition y(0) = 5.",
+			  "Differential Calculus: Find the critical points of the function g(x) = 2x^3 - 6x^2 + 4x.",
+			  "Differential Equations: Solve the differential equation dy/dx = e^{2x} with the initial condition y (0) = 1."
+		  ],
+		  "options": [
+			  ["y = x^3 + 2", "y = x^3 + 3", "y = 3x^3 + 2", "y = 3x^3 + 3"], 
+			  ["12x^2 - 4x + 5 ", "8x^2 - 4x + 5 ", "12x^2 - 4x - 5","8x^2 - 4x - 5 "], 
+			  ["y = 5e^{-2x} ", "y = 5e^{2x} ", "y = -5e^{-2x}"," y = -5e^{2x} "],
+			  ["x = 0, 1, 2 ", "x = 0, 1 ", "x = 0, 2 ","x = 1, 2 "],
+			  ["y = 1/2e^{2x} ", "y = 2e^{2x} ", "y = 1/2e^{2x} + 1 ","y = e^{2x} "]
+		  ],
+		  "answer": [0, 0, 0, 1, 2],
+		  "images": ["pic1.jpg", "pic2.jpg", "pic3.jpg"]
+		},
+		"subcategory6": {
+		  "question": [
+			  "Differential Calculus: Find the global maximum and minimum values of h(x) = x^2 - 4x + 3 on the interval [0, 4].", 
+			  "Differential Equations: Given the differential equation dy/dx = 2x, the solution with the initial condition y(0) = 3 is:", 
+			  "Differential Equations:The general solution of the differential equation (d^2)y/ d(x^2)- 4y = 0 is:",
+			  "Differential Equations: The solution of the differential equation {dy}/{dx} + y = e^{-x} is given by:",
+			  "Differential Equations: The solution of the differential equation {dy}/{dx} = ky where k is a constant is:"
+		  ],
+		  "options": [
+			  ["Maximum: 3, Minimum: -1", "Maximum: 3, Minimum: 0", "Maximum: 4, Minimum: 0", "Maximum: 4, Minimum: -1"], 
+			  ["y = x^2 + 3 ", "y = 2x^2 + 3", "y = x^2 + 2","y = 2x^2 + 2"], 
+			  ["y = Ae^{2x} + Be^{-2x}", "y = Ae^{x} + Be^{-x}", "y = Ae^{x} + Be^{-x}","y = Ae^{x} + Be^{-x}"],
+			  ["y = e^{-x} + Ce^{-x} ", "y = e^{-x} - Ce^{-x} ", "y = e^{-x} + Ce^{x} ","y = e^{-x} - Ce^{x}"],
+			  ["y = Ce^{kx}", "y = Ce^{-kx}", "y = Ce^{1/kx}","y = Ce^{-1/kx}"]
+		  ],
+		  "answer": [1, 1, 2, 0, 0],
+		  "images": ["pic1.jpg", "pic2.jpg", "pic3.jpg"]
+		},
+		"subcategory7": {
+		  "question": [
+			  "A and B are two events such that P(A) = 0.4 and P(A ∩ B) = 0.2 Then P(A ∩ B) is equal ", 
+			  "Let A and B be two events such that P(A) = 15 While P(A or B) = 12. Let P(B) = P. For what values of P are A and B independent?", 
+			  "If 40% of boys opted for maths and 60% of girls opted for maths, then what is the probability that maths is chosen if half of the classs population is girls?",
+			  "Company A produces 10% defective products, Company B produces 20% defective products and C produces 5% defective products. If choosing a company is an equally likely event, then find the probability that the product chosen is defective.",
+			  "In badminton practice session, the probability that the player A serves properly is 0.8 and that he player B serves properly is 0.9. If there are only two players, then find the probability that it is serves properly."
+		  ],
+		  "options": [
+			  ["0.2", "0.3", "0.5", "0.4"], 
+			  ["1/10 and 3/10", "3/10 and 4/5", "3/8 only","None of the above"], 
+			  ["0.3", "0.4", "0.5","0.6"],
+			  ["0.11", "0.22 ", "0.12 ","0.22"],
+			  ["0.75", "0.65", "0.85}","0.95"]
+		  ],
+		  "answer": [3, 2, 2, 2, 2],
+		  "images": ["pic1.jpg", "pic2.jpg", "pic3.jpg"]
+		},
+		"subcategory8": {
+		  "question": [
+			  "A survey determines that in a locality, 33% go to work by Bike, 42% go by Car, and 12% use both. The probability that a random person selected uses neither of them is?", 
+			  "A coin is biased so that its chances of landing Head is 23. If the coin is flipped 3 times, the probability that the first 2 flips are heads and the 3rd flip is a tail Is?", 
+			  "Runs scored by batsman in 5 one day matches are 50, 70, 82, 93, and 20. The standard deviation is ",
+			  "What is the area under a conditional Cumulative density function? ",
+			  "If E(x) = 2 and E(z) = 4, then E(z  x) =?"
+		  ],
+		  "options": [
+			  ["0.36", "0.37", "0.44", "0.45"], 
+			  ["2/9", "4/9", "7/27","4/27"], 
+			  ["25.67", "25.72", "25.79","25.77"],
+			  ["1", "0", "Infinity","None of the above"],
+			  ["2", "4", "6","Not enough data"]
+		  ],
+		  "answer": [2, 3, 2, 0, 0],
+		  "images": ["pic1.jpg", "pic2.jpg", "pic3.jpg"]
+		},
+		"subcategory9": {
+		  "question": [
+			  "Which of the following represents the equation of a circle with center (2, -3) and radius 5?", 
+			  "If the line 2x - 3y  = 6 is perpendicular to the line ax = by = 8, what is the value of a = b?", 
+			  "What is the distance between the points (3, 4) and (-1, -2)?",
+			  "The equation 3x - 4y = 12  represents which geometric shape?",
+			  "Which of the following is the standard form of the equation for an ellipse?"
+		  ],
+		  "options": [
+			  ["0.36", "0.37", "0.44", "0.45"], 
+			  ["2", "3", "5","6"], 
+			  ["4", "6", "8","10"],
+			  ["Circle", "Parabola", "Line","Ellipse"],
+			  ["2", "4", "6","Not enough data"]
+		  ],
+		  "answer": [2, 2, 2, 2, 1],
+		  "images": ["pic1.jpg", "pic2.jpg", "pic3.jpg"]
+		}
+	  }
+  }
+  

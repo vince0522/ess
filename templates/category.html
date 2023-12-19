@@ -1,0 +1,24 @@
+<!-- templates/category.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Select Category</title>
+</head>
+<body>
+    <h2>Select Category</h2>
+    
+    <form method="post" action="{{ url_for('start_quiz') }}">
+        <label for="category">Choose a category:</label>
+        <select id="category" name="category" required>
+            <option value="category1">Category 1</option>
+            <option value="category2">Category 2</option>
+            <option value="category3">Category 3</option>
+        </select>
+        <br><br>
+        <button type="submit">Start Quiz</button>
+    </form>
+</body>
+</html>
